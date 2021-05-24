@@ -1,0 +1,111 @@
+{
+  "drinks": [
+    {
+      "id": "martini",
+      "name": "Martini",
+      "description": "An ice-cold, refreshing classic.",
+      "recipe": "Mix 3 parts vodka & 1 part dry vermouth.",
+      "serve": "Serve very cold, straight up."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": "A nice drink for a late night conversation.",
+      "recipe": "Mix equal parts of gin, Campari, and sweet vermouth.",
+      "serve": "Serve cold, either on the rocks or straight up."
+    },
+    {
+      "id": "gin-and-tonic",
+      "name": "Gin and Tonic",
+      "description": "Like regular tonic, but with gin.",
+      "recipe": "Mix 2 parts gin & 1 part tonic water.",
+      "serve": "Serve in a tall glass over ice, garnished with a lime wedge."
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "description": "Crisp!",
+      "recipe": "Open can.",
+      "serve": "Immediately."
+    }
+  ],
+  "snacks": [
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "description": "An American classic!",
+      "recipe": "Cover expensive, organic tortilla chips with Cheez Whiz.",
+      "serve": "Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    },
+    {
+      "id": "hummus",
+      "name": "Hummus",
+      "description": "Sure to impress your vegan friends!",
+      "recipe": "Purchase one container of hummus.",
+      "serve": "Place unceremoniously on the table, along with pita bread."
+    },
+    {
+      "id": "arugula-and-walnut-salad",
+      "name": "Arugula and Walnut Salad",
+      "description": "Tart and delicious.",
+      "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
+      "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "name": "cheese",
+      "description": "yum",
+      "recipe": "cheese",
+      "serve": "on plate",
+      "id": "a4d91898-1241-4511-af4e-f883a53cce34"
+    },
+    {
+      "name": "apple",
+      "description": "FRUIT",
+      "recipe": "fruit",
+      "serve": "CUT",
+      "id": "d8a566ec-1f73-4c63-a8fe-ca5220268f2a"
+    },
+    {
+      "name": "treat",
+      "description": "yum",
+      "recipe": "s",
+      "serve": "s",
+      "id": "b2948bad-b81a-462a-adb6-ab316aedacdc"
+    },
+    {
+      "name": "",
+      "description": "",
+      "recipe": "",
+      "serve": "",
+      "id": "9f9b1f2b-86f9-4d26-b041-48e317a902b6"
+    },
+    {
+      "name": "q",
+      "description": "u",
+      "recipe": "u",
+      "serve": "u",
+      "id": "f39ef1a4-183f-4655-9fa6-9b314059b534"
+    },
+    {
+      "name": "h",
+      "description": "h",
+      "recipe": "h",
+      "serve": "h",
+      "id": "af26e75e-bb33-459d-9f98-92b3f240195d"
+    },
+    {
+      "name": "cheese",
+      "description": "kjkj",
+      "recipe": "cheese",
+      "serve": "h",
+      "id": "75e8776b-ecca-40f1-a1fc-87ca148265c3"
+    },
+    {
+      "name": "turkey roll up",
+      "description": "yumm",
+      "recipe": "turkey and cheese",
+      "serve": "wrap turkey in cheese",
+      "id": "838cdb9b-85ea-4dfb-86ab-8aae3f176af1"
+    }
+  ]
+}
